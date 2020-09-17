@@ -271,8 +271,8 @@ $lang["who_can_send_or_receive_message_to_or_from_clients"] = "Who can send/rece
 
 /* account */
 $lang["authentication_failed"] = "Authentication failed!";
-$lang["signin"] = "Sign in";
-$lang["sign_out"] = "Sign Out";
+$lang["signin"] = "Masuk";
+$lang["sign_out"] = "Keluar";
 $lang["you_dont_have_an_account"] = "You don't have an account?";
 $lang["already_have_an_account"] = "Already have an account?";
 $lang["forgot_password"] = "Forgot password?";
@@ -360,7 +360,7 @@ $lang["started_at"] = "Dimulai pada";
 $lang["customer_feedback"] = "Feedback klien";
 $lang["project_comment_reply"] = "Balasan komentar project";
 $lang["task_comment_reply"] = "Balasan komentar tugas";
-$lang["file_comment_reply"] = "File Balasan"
+$lang["file_comment_reply"] = "File Balasan";
 $lang["customer_feedback_reply"] = "Customer feedback reply";
 
 /* expense */
